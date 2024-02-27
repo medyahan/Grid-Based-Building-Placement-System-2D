@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a77d35655c87d1439c91a779506114b, type: 3}
+  m_Name: SoldierHelmetData
+  m_EditorClassIdentifier: 
+  Name: Helmet
+  Type: 2
+  Icon: {fileID: 309628545801974608, guid: 564fedabfe62bd5439a41debe47e7d9a, type: 3}
+  HealthPoint: 10
+  DamagePoint: 5
+  Prefab: {fileID: 5658711254628034274, guid: 16a79047ac753274c9fae28dfadc95e7, type: 3}

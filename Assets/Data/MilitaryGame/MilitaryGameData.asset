@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 527207e607c2f404fbe74b8de5714c12, type: 3}
+  m_Name: MilitaryGameData
+  m_EditorClassIdentifier: 
+  BuildingDataList:
+  - {fileID: 11400000, guid: 696eb94c76b57a648bc75b612c8d3cee, type: 2}
+  - {fileID: 11400000, guid: 34163bf4a33af924289e098463ead61b, type: 2}
+  - {fileID: 11400000, guid: a50f0679cb9428a419b5338e3db557b7, type: 2}
+  - {fileID: 11400000, guid: 1bdd3bbf7e6efef488e35b56e45fab59, type: 2}
+  SoldierDataList:
+  - {fileID: 11400000, guid: 46015bf24df50af4bb53f5e6834f5e1a, type: 2}
+  - {fileID: 11400000, guid: f32d2cda0fa3bf24e9c0f78e14344af8, type: 2}
+  - {fileID: 11400000, guid: 7422e5db25bcfad469b305e420ddbe70, type: 2}

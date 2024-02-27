@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SoldierAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5bb451ee29fd622488b06e413f498763, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -3269860327236726785, guid: 2fd54fa2442f30242b3cb22da9e6b0be, type: 3}
+  - {fileID: 4673781161103857741, guid: 2fd54fa2442f30242b3cb22da9e6b0be, type: 3}
+  - {fileID: -9056045466339795330, guid: 2fd54fa2442f30242b3cb22da9e6b0be, type: 3}
+  - {fileID: 6077287661843932117, guid: 2fd54fa2442f30242b3cb22da9e6b0be, type: 3}
+  - {fileID: -5752517562782114829, guid: 2fd54fa2442f30242b3cb22da9e6b0be, type: 3}
+  - {fileID: -2852741598392444486, guid: c3f7a273a33a36f4ebb8248a758e68da, type: 3}
+  - {fileID: 7292705592497422194, guid: c3f7a273a33a36f4ebb8248a758e68da, type: 3}
+  - {fileID: -5715358459222921619, guid: c3f7a273a33a36f4ebb8248a758e68da, type: 3}
+  - {fileID: -7525882869776839469, guid: ffbb56c427bfa5344934e937190ee2e9, type: 3}
+  - {fileID: 2305144062599850415, guid: 220d39c4bfd8a5f43897c04e5a02c406, type: 3}
+  - {fileID: 6723500584860299761, guid: 017d17958355de340aad51d38a524322, type: 3}
+  - {fileID: -8413811252070700473, guid: 017d17958355de340aad51d38a524322, type: 3}
+  - {fileID: -6186841213084988680, guid: 017d17958355de340aad51d38a524322, type: 3}
+  - {fileID: 5959245894377671268, guid: 017d17958355de340aad51d38a524322, type: 3}
+  - {fileID: -4820478939686088993, guid: 017d17958355de340aad51d38a524322, type: 3}
+  - {fileID: 5811713619212840949, guid: c8916a36d83f4ee43bf659967ba70d05, type: 3}
+  - {fileID: -3709846438272184363, guid: c8916a36d83f4ee43bf659967ba70d05, type: 3}
+  - {fileID: 4695632045283415284, guid: c8916a36d83f4ee43bf659967ba70d05, type: 3}
+  - {fileID: -2376334049595974409, guid: 69c23997859b46f4a8c3fafbb015fa89, type: 3}
+  - {fileID: 4931006461117536307, guid: 69c23997859b46f4a8c3fafbb015fa89, type: 3}
+  - {fileID: 4613175387553883843, guid: 69c23997859b46f4a8c3fafbb015fa89, type: 3}
+  - {fileID: -3267000761229938436, guid: 0e33f7c8d367c3a4ea02ef59b6ee14dc, type: 3}
+  - {fileID: 5676706465685735286, guid: 0e33f7c8d367c3a4ea02ef59b6ee14dc, type: 3}
+  - {fileID: 5353372928974526554, guid: 0e33f7c8d367c3a4ea02ef59b6ee14dc, type: 3}
+  - {fileID: 5166895681418659072, guid: 693dd52bfe272af469505f6777e3ae17, type: 3}
+  - {fileID: 8618510141592991388, guid: 693dd52bfe272af469505f6777e3ae17, type: 3}
+  - {fileID: -3015073036887129995, guid: 693dd52bfe272af469505f6777e3ae17, type: 3}
+  - {fileID: 309628545801974608, guid: 564fedabfe62bd5439a41debe47e7d9a, type: 3}
+  - {fileID: 3679539321532186176, guid: 6f9441bd93ab896438a93542cea44fb6, type: 3}
+  - {fileID: 1751989812402347935, guid: 6f9441bd93ab896438a93542cea44fb6, type: 3}
+  - {fileID: -2471060446478548888, guid: 6f9441bd93ab896438a93542cea44fb6, type: 3}
+  - {fileID: -5680971301188390218, guid: 6f9441bd93ab896438a93542cea44fb6, type: 3}
+  - {fileID: 3098120383400218920, guid: 6f9441bd93ab896438a93542cea44fb6, type: 3}
+  - {fileID: -606561852044260192, guid: 2f3ad70f19a882142b9f050d699fd4e0, type: 3}
+  - {fileID: 1241909516285403846, guid: 2f3ad70f19a882142b9f050d699fd4e0, type: 3}
+  - {fileID: -2244950384398809638, guid: 2f3ad70f19a882142b9f050d699fd4e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BoredGeneralAnim_4
+  - BoredGeneralAnim_3
+  - BoredGeneralAnim_2
+  - BoredGeneralAnim_1
+  - BoredGeneralAnim_0
+  - YawnHelmetAnim_2
+  - YawnHelmetAnim_1
+  - YawnHelmetAnim_0
+  - General_0
+  - Ordinary_0
+  - BoredHelmetAnim_4
+  - BoredHelmetAnim_2
+  - BoredHelmetAnim_3
+  - BoredHelmetAnim_0
+  - BoredHelmetAnim_1
+  - WalkGeneralAnim_2
+  - WalkGeneralAnim_0
+  - WalkGeneralAnim_1
+  - YawnOrdinaryAnim_2
+  - YawnOrdinaryAnim_0
+  - YawnOrdinaryAnim_1
+  - WalkOrdinaryAnim_0
+  - WalkOrdinaryAnim_1
+  - WalkOrdinaryAnim_2
+  - YawnGeneralAnim_0
+  - YawnGeneralAnim_1
+  - YawnGeneralAnim_2
+  - Helmet_0
+  - BoredOrdinaryAnim_4
+  - BoredOrdinaryAnim_3
+  - BoredOrdinaryAnim_2
+  - BoredOrdinaryAnim_1
+  - BoredOrdinaryAnim_0
+  - WalkHelmetAnim_1
+  - WalkHelmetAnim_0
+  - WalkHelmetAnim_2
+  m_RenderDataMap: {}
+  m_Tag: SoldierAtlas
+  m_IsVariant: 0

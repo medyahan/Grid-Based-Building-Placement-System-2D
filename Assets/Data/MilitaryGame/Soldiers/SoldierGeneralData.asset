@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a77d35655c87d1439c91a779506114b, type: 3}
+  m_Name: SoldierGeneralData
+  m_EditorClassIdentifier: 
+  Name: General
+  Type: 1
+  Icon: {fileID: -7525882869776839469, guid: ffbb56c427bfa5344934e937190ee2e9, type: 3}
+  HealthPoint: 10
+  DamagePoint: 10
+  Prefab: {fileID: 1858887387415594520, guid: 1a95c560057797c49aa194b14bc8bebb, type: 3}
